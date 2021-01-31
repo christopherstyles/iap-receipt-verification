@@ -1,0 +1,6 @@
+{
+  "name": "In App Purchase (IAP) Receipt Verification",
+  "description": "Node app to verify the receipt of an In App Purchase.",
+  "repository": "https://github.com/christopherstyles/iap-receipt-verification",
+  "image": "heroku/nodejs"
+}
